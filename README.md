@@ -22,7 +22,7 @@ $$\hat{k}_ {t+2} = A_0\hat{k}_ t+A_1\hat{k}_{t+1}$$
 Where
 
 $$A_0= -(\alpha A(k^*)^{\alpha-1}+1-\delta)$$
-$$A_1= 1+\alpha A (k^* )^{\alpha-1}+1-\delta-\beta(A(k^* )^\alpha-\delta k^*)\alpha(\alpha-1)Ak^{\alpha-2}$$
+$$A_1= 1+\alpha A (k^* )^{\alpha-1}+1-\delta-\beta(A(k^* )^{\alpha}-\delta k^*)\alpha(\alpha-1)A k^{\alpha-1}$$
 
 With the values of $A_1$ and $A_0$, we then write the dynamic as:
 
