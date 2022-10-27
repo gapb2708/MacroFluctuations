@@ -1,4 +1,4 @@
-#Macroeconomics Fluctuations
+# Macroeconomics Fluctuations
 
 In this project we consider a simple economy that is characterized by the following 2 dynamics:
 
